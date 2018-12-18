@@ -4,5 +4,4 @@ public interface TestInterface {
   void add();
   void update();
   void delete();
-  void aa();
 }
