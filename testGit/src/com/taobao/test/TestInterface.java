@@ -7,4 +7,5 @@ public interface TestInterface {
   void dd();
   void cc();
   void lisi();
+  void zhangsan();
 }
