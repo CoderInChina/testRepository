@@ -6,4 +6,5 @@ public interface TestInterface {
   void delete();
   void dd();
   void cc();
+  void lisi();
 }
